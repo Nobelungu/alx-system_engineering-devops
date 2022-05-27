@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd -rwxr--r-- hello
+chmod u+x hello
