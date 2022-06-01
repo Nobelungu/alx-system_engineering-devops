@@ -1,2 +1,2 @@
 #!/bin/bash
-type dir "PATH";ls
+echo type dir 'PATH';ls
